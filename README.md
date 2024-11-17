@@ -1,5 +1,6 @@
 Overview
-This Smart Home System project models an advanced automated home environment using various sensors, control devices, and external systems. The software is designed to manage multiple functionalities, including temperature control, home security, water leak detection, fire detection, and energy usage monitoring. The system integrates seamlessly with both internal and external services, providing a holistic approach to smart home management.
+This Smart Home System Design Project models a sophisticated automated home environment, incorporating a variety of sensors, control devices, and integrated external systems. The project involves designing a comprehensive software architecture to manage key functionalities such as temperature regulation, home security, water leak detection, fire alarms, and energy monitoring.
+
 
 Key Features
 Temperature Control:
